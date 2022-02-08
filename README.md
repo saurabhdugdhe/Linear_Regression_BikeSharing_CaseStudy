@@ -5,7 +5,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Business Understanding](#business-understanding)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
@@ -58,7 +58,7 @@
 
 
 ## Contact
-Created by [@saurabhdugdhe]
+Created by [@saurabhdugdhe](https://github.com/saurabhdugdhe)
 
 
 <!-- Optional -->
